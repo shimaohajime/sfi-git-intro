@@ -4,6 +4,8 @@
 Created on Wed Jul 18 16:42:18 2018
 
 @author: hajime
+
+
 """
 
 import numpy as np
